@@ -2,7 +2,9 @@
 이름: 김정수
 
 Email: is7senrin@naver.com || vldpfh548@gmail.com
+
 GitHub: github.com/jwgdmkj
+
 기타 코드 저장 블로그: jwgdkmj.tistory.com
 
 # LANGUAGE
