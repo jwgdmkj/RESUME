@@ -3,9 +3,9 @@
 
 Email: is7senrin@naver.com || vldpfh548@gmail.com
 
-GitHub: <github.com/jwgdmkj>
+GitHub: <https://github.com/jwgdmkj/>
 
-기타 알고리즘 공부 등 코드 저장 블로그: <jwgdkmj.tistory.com>
+기타 알고리즘 공부 등 코드 저장 블로그: <https://jwgdkmj.tistory.com/>
 
 # LANGUAGE
 1. C - 약 3~4년 사용
